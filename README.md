@@ -1,4 +1,4 @@
-📝 To-Do List Web App
+ To-Do List Web App
 
 A simple and clean To-Do List web application built with ASP.NET Core MVC and Entity Framework Core.
 
@@ -9,9 +9,8 @@ This project allows users to:
 - Mark tasks as completed
 - Filter tasks by category or status
 
----
 
-🚀 Technologies Used
+ Technologies Used
 
 - ASP.NET Core MVC
 - Entity Framework Core
@@ -20,12 +19,8 @@ This project allows users to:
 - C#
 - LINQ
 
----
- 📷 Screenshots
 
-(Add screenshots here later)
-
- ⚙️ Features
+ Features
 
 ✔ Create tasks  
 ✔ Update tasks  
