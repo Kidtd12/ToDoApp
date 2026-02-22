@@ -1,6 +1,4 @@
  To-Do List Web App
-This project allows users to:
-
 
 This project allows users to:
 - Add new tasks
