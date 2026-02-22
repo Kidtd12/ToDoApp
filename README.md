@@ -1,6 +1,5 @@
  To-Do List Web App
 
-A simple and clean To-Do List web application built with ASP.NET Core MVC and Entity Framework Core.
 
 This project allows users to:
 - Add new tasks
